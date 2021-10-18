@@ -5,4 +5,4 @@ En la primera sección deberás ingresar dos valores para X y Y, respectivamente
 
 https://colab.research.google.com/drive/1qwO4DVaSDMWsMtX-HZc6_KPYcL_HajCn#scrollTo=iRhVFNpuxKG8 
 
-Si deseas descargar este archivo, en este mismo repositorio se encuentra el archivo Platzi_Master_Grpah_Calc.ipynb para que lo hagas. 
+Si deseas descargar este archivo, en este mismo repositorio se encuentra el archivo Platzi_Master_Grpah_Calc.ipynb para que lo hagas. En la sección principal del repositorio, da click en Code/Código y descarga con la opción de .zip 
